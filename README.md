@@ -29,12 +29,12 @@ applicable.
 This dataset provides comprehensive information about inbound calls received by the
 CX team. The various columns will be utilized to analyze call volume trends, average call
 duration, and manpower planning for improved customer experience and call center
-efficiency.
+efficiency. 
 The dataset for the "Call Volume Trend Analysis" project contains 115,406 rows of data,
 covering a span of 23 days. It provides detailed information about inbound calls
 received by the CX team during this period. The dataset includes time buckets, which
 categorize the data into specific time intervals (e.g., 9-10, 10-11) for easier analysis and
-visualization.
+visualization. 
 The dataset's columns offer valuable insights into various aspects of the inbound calls,
 such as agent information, customer phone numbers, queue times, call date and time,
 call duration, call status, and more. These data points will be leveraged to conduct a
@@ -60,13 +60,14 @@ bucket, we'll ensure that at least 90 out of 100 calls are answered promptly.
 night by proposing a manpower plan for each time bucket. The goal is to keep the
 maximum abandon rate at 10% and provide a better customer experience.
 6. Insights and Recommendations: Based on the analysis, we'll derive valuable
-insights into call trends, customer behaviour, and agent efficiency. These insights
+insights into call trends, customer behavior, and agent efficiency. These insights
 will help make data-driven decisions to optimize workforce allocation and
 enhance customer satisfaction.
-Tech-Stack Used – MS Excel 2021
+
+## Tech-Stack Used – MS Excel 2021
 The project "Call Volume Trend Analysis" utilizes Microsoft Excel 2021 as the primary
 tech stack. MS Excel is employed for data import, cleaning, and preparation. It uses
-formulas, PivotTables, and charts for analysis and visualization. MS Excel's user-friendly
+formulas, pivot tables, and charts for analysis and visualization. MS Excel's user-friendly
 interface makes it ideal for efficient data analytics in this project.
 ● Pivot Tables and Pivot Charts
 ● Data Visualization
